@@ -51,9 +51,6 @@ app.put('/dishes/:dishId', (req, res, next) => {
         ' with details: ' + req.body.description);
 });
 
-app.delete('/dishes/:dishId', (req, res, next) => {
-    res.end('Deleting dish: ' + req.params.dishId);
-});
 
 const server = http.createServer(app);
 
