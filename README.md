@@ -1,6 +1,6 @@
 ## Week 2
 
-Start coding with:
+Start coding the server with:
 * [Mongoose](https://mongoosejs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Express](https://expressjs.com/)
