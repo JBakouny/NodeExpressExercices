@@ -265,6 +265,4 @@ test/files/main.js
 
 package-lock.json
 
-conFusionServer/sessions/*
-
 .config*
